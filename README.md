@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🎧 Now Listening To: 
-[<img src="https://spotify-readme-flame.vercel.app/api/spotify" alt="Spotify Playing" width="425" />](https://open.spotify.com/user/1290872612)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1290872612&cover_image=true&theme=default&bar_color=6f4ac4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## 🧮 About me
 - 🔭 I’m currently studying a computer science bachelor's degree at UANL.
